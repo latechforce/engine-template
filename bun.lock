@@ -4,13 +4,13 @@
     "": {
       "name": "engine-template",
       "dependencies": {
-        "@latechforce/engine": "^0.46.5",
+        "@latechforce/engine": "^0.46.6",
       },
       "devDependencies": {
         "@types/bun": "latest",
       },
       "peerDependencies": {
-        "typescript": "^5",
+        "typescript": "^5.8.3",
       },
     },
   },
