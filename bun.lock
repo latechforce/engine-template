@@ -4,7 +4,7 @@
     "": {
       "name": "engine-template",
       "dependencies": {
-        "@latechforce/engine": "^0.46.6",
+        "@latechforce/engine": "^0.47.0",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -75,7 +75,7 @@
 
     "@inversifyjs/reflect-metadata-utils": ["@inversifyjs/reflect-metadata-utils@1.1.0", "", { "peerDependencies": { "reflect-metadata": "0.2.2" } }, "sha512-jmuAuC3eL1GnFAYfJGJOMKRDL9q1mgzOyrban6zxfM8Yg1FUHsj25h27bW2G7p8X1Amvhg3MLkaOuogszkrofA=="],
 
-    "@latechforce/engine": ["@latechforce/engine@0.46.6", "", { "dependencies": { "@eslint/js": "^9.27.0", "@hono/zod-openapi": "^0.19.6", "@hono/zod-validator": "^0.5.0", "@radix-ui/react-checkbox": "^1.3.2", "@radix-ui/react-dialog": "^1.1.14", "@radix-ui/react-label": "^2.1.7", "@radix-ui/react-separator": "^1.1.7", "@radix-ui/react-slot": "^1.2.3", "@radix-ui/react-tooltip": "^1.2.7", "@scalar/hono-api-reference": "^0.8.10", "@tanstack/react-query": "^5.76.1", "@tanstack/react-router": "^1.120.5", "@tanstack/react-router-devtools": "^1.120.6", "@tanstack/react-table": "^8.21.3", "@types/json-schema": "^7.0.15", "ajv": "^8.17.1", "better-auth": "^1.2.8", "bun-plugin-tailwind": "^0.0.15", "class-variance-authority": "^0.7.1", "clsx": "^2.1.1", "date-fns": "^4.1.0", "drizzle-orm": "^0.43.1", "eslint": "^9.27.0", "handlebars": "^4.7.8", "hono": "^4.7.10", "inversify": "^7.5.1", "json-schema-to-zod": "^2.6.1", "lucide-react": "^0.511.0", "pg": "^8.16.0", "react": "^19.1.0", "react-dom": "^19.1.0", "reflect-metadata": "^0.2.2", "tailwind-merge": "^3.3.0", "tailwindcss": "^4.1.7", "tw-animate-css": "^1.3.0", "winston": "^3.17.0", "zod": "^3.25.17" }, "peerDependencies": { "typescript": "^5.8.3" } }, "sha512-bl+ATdmlNkHBklTFIY449yWoR60NuSAZyajd4qUNQWbdLdIMnWm4j1eY7c+w4ZBpJhjboWIHbqlDcayXI2h6bA=="],
+    "@latechforce/engine": ["@latechforce/engine@0.47.0", "", { "dependencies": { "@eslint/js": "^9.27.0", "@hono/zod-openapi": "^0.19.6", "@hono/zod-validator": "^0.5.0", "@radix-ui/react-checkbox": "^1.3.2", "@radix-ui/react-dialog": "^1.1.14", "@radix-ui/react-label": "^2.1.7", "@radix-ui/react-separator": "^1.1.7", "@radix-ui/react-slot": "^1.2.3", "@radix-ui/react-tooltip": "^1.2.7", "@scalar/hono-api-reference": "^0.8.10", "@tanstack/react-query": "^5.76.1", "@tanstack/react-router": "^1.120.5", "@tanstack/react-router-devtools": "^1.120.6", "@tanstack/react-table": "^8.21.3", "@types/json-schema": "^7.0.15", "ajv": "^8.17.1", "better-auth": "^1.2.8", "bun-plugin-tailwind": "^0.0.15", "class-variance-authority": "^0.7.1", "clsx": "^2.1.1", "date-fns": "^4.1.0", "drizzle-orm": "^0.43.1", "eslint": "^9.27.0", "handlebars": "^4.7.8", "hono": "^4.7.10", "inversify": "^7.5.1", "json-schema-to-zod": "^2.6.1", "lucide-react": "^0.511.0", "pg": "^8.16.0", "react": "^19.1.0", "react-dom": "^19.1.0", "reflect-metadata": "^0.2.2", "tailwind-merge": "^3.3.0", "tailwindcss": "^4.1.7", "tw-animate-css": "^1.3.0", "winston": "^3.17.0", "zod": "^3.25.17" }, "peerDependencies": { "typescript": "^5.8.3" } }, "sha512-SLwJZBwZj2YgFyC+duiOO0Em9cXgNAGen0GCna4Hm/rlOvtrWCk1fDH4kkih5KfRREJBxPP7ICfySwjzpmG00g=="],
 
     "@levischuck/tiny-cbor": ["@levischuck/tiny-cbor@0.2.11", "", {}, "sha512-llBRm4dT4Z89aRsm6u2oEZ8tfwL/2l6BwpZ7JcyieouniDECM5AqNgr/y08zalEIvW3RSK4upYyybDcmjXqAow=="],
 
