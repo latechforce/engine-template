@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "@latechforce/engine": "latest"
+  },
+  "engines": {
+    "bun": ">=1.2.0"
   }
 }
